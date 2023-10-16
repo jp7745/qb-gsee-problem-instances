@@ -1,0 +1,365 @@
+{
+    "problem_instance_uuid": "cd8d69cc-62cf-4969-aaec-d4b1b784bd07",
+    "$schema": "https://raw.githubusercontent.com/jp7745/qb-file-schemas/main/schemas/problem_instance.schema.0.0.1.json",
+    "problem_type": "GSEE",
+    "application_domain": "QC",
+    "calendar_due_date": null,
+    "creation_timestamp": "2023-10-16T19:36:39.363130Z",
+    "status": "in_force",
+    "superseded_by": null,
+    "contact_info": [
+        {
+            "name": "BOBQAT Team",
+            "email": "bobqat@l3harris.com",
+            "institution": "L3Harris Technologies, Inc",
+            "other_info": {
+                "website": "www.l3harris.com"
+            }
+        },
+        {
+            "name": "Zapata AI",
+            "email": "bobqat@zapatacomputing.com",
+            "institution": "Zapata AI",
+            "other_info": {
+                "website": "https://zapata.ai/"
+            }
+        }
+    ],
+    "short_name": "cyclohexenone_family",
+    "instance_data": [
+        {
+            "instance_data_object_uuid": "88888888-4444-4444-4444-121212121212",
+            "instance_data_object_url": "https://this-example-does-not-work-yet",
+            "instance_data_checksum_type": "sha1sum",
+            "instance_data_checksum": "4040404040404040404040404040404040404040",
+            "independent_parameters": {
+                "iso": 2.0
+            },
+            "features": {
+                "software_used": "CHEMISTRY_SOFTWARE_PLACEHOLDER",
+                "molecule_name": "cyclohexenone",
+                "basis_set": "def2-QZVPPD",
+                "charge": "0",
+                "multiplicity": "1",
+                "avas_minao": "STO-3G",
+                "method_type": "DFT",
+                "geometry": [
+                    {
+                        "element": "C",
+                        "coodinates": [
+                            1.762094,
+                            0.099793,
+                            -0.16818
+                        ]
+                    },
+                    {
+                        "element": "C",
+                        "coodinates": [
+                            1.083442,
+                            -1.238631,
+                            -0.21598
+                        ]
+                    },
+                    {
+                        "element": "C",
+                        "coodinates": [
+                            -0.292286,
+                            -1.206432,
+                            0.467057
+                        ]
+                    },
+                    {
+                        "element": "C",
+                        "coodinates": [
+                            -1.094445,
+                            -0.001309,
+                            0.035451
+                        ]
+                    },
+                    {
+                        "element": "C",
+                        "coodinates": [
+                            -0.383206,
+                            1.333034,
+                            0.17189
+                        ]
+                    },
+                    {
+                        "element": "C",
+                        "coodinates": [
+                            1.109714,
+                            1.241527,
+                            0.022332
+                        ]
+                    },
+                    {
+                        "element": "H",
+                        "coodinates": [
+                            2.836584,
+                            0.117396,
+                            -0.305292
+                        ]
+                    },
+                    {
+                        "element": "H",
+                        "coodinates": [
+                            0.972481,
+                            -1.559031,
+                            -1.257259
+                        ]
+                    },
+                    {
+                        "element": "H",
+                        "coodinates": [
+                            -0.870542,
+                            -2.1073,
+                            0.273614
+                        ]
+                    },
+                    {
+                        "element": "H",
+                        "coodinates": [
+                            -0.815564,
+                            2.022481,
+                            -0.555599
+                        ]
+                    },
+                    {
+                        "element": "H",
+                        "coodinates": [
+                            1.657604,
+                            2.175864,
+                            0.049059
+                        ]
+                    },
+                    {
+                        "element": "H",
+                        "coodinates": [
+                            -0.642452,
+                            1.741167,
+                            1.156828
+                        ]
+                    },
+                    {
+                        "element": "H",
+                        "coodinates": [
+                            -0.139654,
+                            -1.119788,
+                            1.547989
+                        ]
+                    },
+                    {
+                        "element": "H",
+                        "coodinates": [
+                            1.709896,
+                            -1.994479,
+                            0.261378
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "coodinates": [
+                            -2.22753,
+                            -0.080525,
+                            -0.380767
+                        ]
+                    }
+                ],
+                "avas_atomic_orbitals": [
+                    {
+                        "element": "O",
+                        "orbital": "2s"
+                    },
+                    {
+                        "element": "O",
+                        "orbital": "2p"
+                    },
+                    {
+                        "element": "H",
+                        "orbital": "1s"
+                    },
+                    {
+                        "element": "C",
+                        "orbital": "2s"
+                    },
+                    {
+                        "element": "C",
+                        "orbital": "2p"
+                    }
+                ]
+            },
+            "requirements": {
+                "time_limit_seconds": 86400,
+                "accuracy": 1.0,
+                "enery_units": "millihartree"
+            }
+        },
+        {
+            "instance_data_object_uuid": "88888888-4444-4444-4444-121212121212",
+            "instance_data_object_url": "https://this-example-does-not-work-yet",
+            "instance_data_checksum_type": "sha1sum",
+            "instance_data_checksum": "4040404040404040404040404040404040404040",
+            "independent_parameters": {
+                "iso": 1.0
+            },
+            "features": {
+                "software_used": "CHEMISTRY_SOFTWARE_PLACEHOLDER",
+                "molecule_name": "cyclohexenone",
+                "basis_set": "def2-QZVPPD",
+                "charge": "0",
+                "multiplicity": "1",
+                "avas_minao": "STO-3G",
+                "method_type": "DFT",
+                "geometry": [
+                    {
+                        "element": "C",
+                        "coodinates": [
+                            1.809846,
+                            0.091718,
+                            0.129562
+                        ]
+                    },
+                    {
+                        "element": "C",
+                        "coodinates": [
+                            1.069756,
+                            -1.159655,
+                            -0.341595
+                        ]
+                    },
+                    {
+                        "element": "C",
+                        "coodinates": [
+                            -0.32761,
+                            -1.235899,
+                            0.272445
+                        ]
+                    },
+                    {
+                        "element": "C",
+                        "coodinates": [
+                            -1.136944,
+                            0.02262,
+                            0.018308
+                        ]
+                    },
+                    {
+                        "element": "C",
+                        "coodinates": [
+                            -0.377556,
+                            1.284632,
+                            -0.05219
+                        ]
+                    },
+                    {
+                        "element": "C",
+                        "coodinates": [
+                            0.956409,
+                            1.318465,
+                            0.025842
+                        ]
+                    },
+                    {
+                        "element": "H",
+                        "coodinates": [
+                            2.128092,
+                            -0.026057,
+                            1.173081
+                        ]
+                    },
+                    {
+                        "element": "H",
+                        "coodinates": [
+                            0.979669,
+                            -1.126191,
+                            -1.430279
+                        ]
+                    },
+                    {
+                        "element": "H",
+                        "coodinates": [
+                            -0.896389,
+                            -2.088713,
+                            -0.094159
+                        ]
+                    },
+                    {
+                        "element": "H",
+                        "coodinates": [
+                            -0.965953,
+                            2.18791,
+                            -0.145461
+                        ]
+                    },
+                    {
+                        "element": "H",
+                        "coodinates": [
+                            1.464122,
+                            2.27676,
+                            0.018673
+                        ]
+                    },
+                    {
+                        "element": "H",
+                        "coodinates": [
+                            -0.250085,
+                            -1.345038,
+                            1.360406
+                        ]
+                    },
+                    {
+                        "element": "H",
+                        "coodinates": [
+                            1.641868,
+                            -2.055381,
+                            -0.097986
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "coodinates": [
+                            -2.349175,
+                            0.001194,
+                            -0.081989
+                        ]
+                    },
+                    {
+                        "element": "H",
+                        "coodinates": [
+                            2.728669,
+                            0.235862,
+                            -0.442596
+                        ]
+                    }
+                ],
+                "avas_atomic_orbitals": [
+                    {
+                        "element": "O",
+                        "orbital": "2s"
+                    },
+                    {
+                        "element": "O",
+                        "orbital": "2p"
+                    },
+                    {
+                        "element": "H",
+                        "orbital": "1s"
+                    },
+                    {
+                        "element": "C",
+                        "orbital": "2s"
+                    },
+                    {
+                        "element": "C",
+                        "orbital": "2p"
+                    }
+                ]
+            },
+            "requirements": {
+                "time_limit_seconds": 86400,
+                "accuracy": 1.0,
+                "enery_units": "millihartree"
+            }
+        }
+    ]
+}
