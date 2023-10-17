@@ -26,20 +26,15 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
-
-      - name: setup git config
-        run: |
-          git config user.name "GitHub Actions Automated Workflow"
-          git config user.email "dontemailmebro@nowhere.net"
-      
+     
       - name: setup python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
 
       - name: setup dependencies
         run: |
           pip3 install jsonschema
         
-      - name: Run the Python Summarization Script that will validate the problem_instance JSON schema
+      - name: Run the Python Script that will validate the problem_instance JSON schema
         working-directory: ./scripts
         run: |
           date > problem_instance_json_schema_validation_log.txt
@@ -47,6 +42,8 @@ jobs:
         
       - name: commit changes
         run: |
+          git config --local user.name "GitHub Action"
+          git config --local user.email "action@github.com"
           git add -A
           git commit -m "Automatic problem_instance JSON Schema Validation"
           git push
