@@ -4,14 +4,14 @@ Ground State Energy Estimation Problem Instances for the Quantum Benchmarking Pr
 **WARNING!  WORK IN PROGRESS!**
 
 
-### See the `examples` directory for examples on 
+### See the `examples` directory for examples on:
 
 1. Reading/modifying/writing back instances
 2. Validating that instance adhere to the schema.  Proposed schema is here:  https://github.com/jp7745/qb-file-schemas
 3. TODO: using TBD database program to review instances
 
 
-### Warning!  Automated Actions
+### Warning! Automated Actions:
 
 There is a nightly (or manually triggered) Github action to validate all `problem_instance` JSON files and *move* errored files to the `problem_instances_WITH_SCHEMA_ERRORS` directory.
 
