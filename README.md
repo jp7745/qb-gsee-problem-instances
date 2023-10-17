@@ -1,25 +1,26 @@
 # qb-gsee-problem-instances
 Ground State Energy Estimation Problem Instances for the Quantum Benchmarking Program
 
-<span style="color:red">WARNING!  WORK IN PROGRESS!</span>
+**WARNING!  WORK IN PROGRESS!**
 
 
-
-See the `example_scripts` directory for examples on 
+### See the `examples` directory for examples on 
 
 1. Reading/modifying/writing back instances
 2. Validating that instance adhere to the schema.  Proposed schema is here:  https://github.com/jp7745/qb-file-schemas
-3. Generating a summary .csv table of instances
-4. TODO: using TBD database program to review instances
+3. TODO: using TBD database program to review instances
 
 
-TODO: convert catalysis instances to `problem_instance` files.
+### Warning!  Automated Actions
 
-TODO: complete SFTP repository for all Hamiltonians, edit URL pointers in `problem_instance` files.
-
-TODO: setup nightly github action to validate schema and move errored `problem_instance` files to a temporary directory.
+There is a nightly (or manually triggered) Github action to validate all `problem_instance` JSON files and *move* errored files to the `problem_instances_WITH_SCHEMA_ERRORS` directory.
 
 
+There is a nightly (or manually triggered) Github action to generate the `summary.csv` file.  This file should not be edited; edits will be overwritten.
+
+### TODO:
+1. convert catalysis instances to `problem_instance` files.
+2. complete SFTP repository for all Hamiltonians, edit URL pointers in `problem_instance` files.
 
 
 ### License:
