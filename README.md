@@ -9,7 +9,7 @@ See the `example_scripts` directory for examples on
 
 1. Reading/modifying/writing back instances
 2. Validating that instance adhere to the schema.  Proposed schema is here:  https://github.com/jp7745/qb-file-schemas
-3. TODO: Generating a summary table of instances
+3. Generating a summary .csv table of instances
 4. TODO: using TBD database program to review instances
 
 
