@@ -43,7 +43,7 @@ jobs:
         working-directory: ./scripts
         run: |
           date > problem_instance_json_schema_validation_log.txt
-          # python3 ./validate_schema.py -i ../problem_instances -e ../problem_instances_WITH_SCHEMA_ERRORS >> problem_instance_json_schema_validation_log.txt 2>&1
+          python3 validate_schema.py -i ../problem_instances -e ../problem_instances_WITH_SCHEMA_ERRORS >> problem_instance_json_schema_validation_log.txt 2>&1
         
       - name: commit changes
         run: |
