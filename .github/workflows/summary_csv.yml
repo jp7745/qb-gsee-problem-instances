@@ -35,7 +35,7 @@ jobs:
       - name: setup python
         uses: actions/setup-python@v2
         
-      - name: Run the Python Summarization Script that will create the new README.md
+      - name: Run the Python Summarization Script that will create the new summary.csv file.
         working-directory: ./scripts
         run: |
           date > summary_csv_script_log.txt
