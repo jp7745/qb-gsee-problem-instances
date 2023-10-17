@@ -27,13 +27,8 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
 
-      - name: setup git config
-        run: |
-          git config user.name "GitHub Actions Automated Workflow"
-          git config user.email "dontemailmebro@nowhere.net"
-      
       - name: setup python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         
       - name: Run the Python Summarization Script that will create the new summary.csv file.
         working-directory: ./scripts
@@ -43,6 +38,8 @@ jobs:
         
       - name: commit changes
         run: |
+          git config --local user.name "GitHub Action"
+          git config --local user.email "action@github.com"
           git add -A
           git commit -m "Automatic Update of summary.csv"
           git push
