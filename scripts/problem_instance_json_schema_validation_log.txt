@@ -1,7 +1,7 @@
-Tue Oct 17 16:45:14 UTC 2023
-INFO:root:started at: 2023-10-17T16:45:14.646412
+Wed Oct 18 00:57:17 UTC 2023
+INFO:root:started at: 2023-10-18T00:57:17.257116
 INFO:root:input directory: ../problem_instances
-INFO:root:errored_files_directory file: ../problem_instances_WITH_SCHEMA_ERRORS
+INFO:root:errored_files_directory file: ../problem_instances_WITH_ERRORS
 INFO:root:parsing ../problem_instances/problem_instance.a897b405-3e25-40ac-91be-719f787bb419.json
 INFO:root:parsing ../problem_instances/problem_instance.755aa1a4-7118-4df8-98f9-c507cb1b5640.json
 INFO:root:parsing ../problem_instances/problem_instance.a3434e94-5b8a-4826-9823-b5747fb2e01a.json
@@ -713,7 +713,7 @@ On instance:
      'application_domain': 'QC',
      'problem_instance_uuid': 'dddddddddddddddddddd',
      'problem_type': 'GSEE'}
-INFO:root:moving file to ../problem_instances_WITH_SCHEMA_ERRORS/known_bad_problem_instance.json.1697561117.7133658.ERROR
+INFO:root:moving file to ../problem_instances_WITH_ERRORS/known_bad_problem_instance.json.1697590641.2638795.ERROR
 INFO:root:parsing ../problem_instances/problem_instance.939dc32c-d6da-430f-8b2f-7b3e682c8eac.json
 INFO:root:parsing ../problem_instances/problem_instance.37658562-182b-4c20-94f3-c024729b749b.json
 INFO:root:parsing ../problem_instances/problem_instance.6afcc881-4691-40fe-9fde-4a90dc34ee59.json
