@@ -1,5 +1,5 @@
-Tue Oct 24 00:56:39 UTC 2023
-INFO:root:started at: 2023-10-24T00:56:39.760168
+Wed Oct 25 00:56:43 UTC 2023
+INFO:root:started at: 2023-10-25T00:56:43.357849
 INFO:root:input directory: ../problem_instances
 INFO:root:errored_files_directory file: ../problem_instances_WITH_ERRORS
 INFO:root:parsing ../problem_instances/problem_instance.6a8078ea-bd71-415a-9610-c55ef3faecee.json
