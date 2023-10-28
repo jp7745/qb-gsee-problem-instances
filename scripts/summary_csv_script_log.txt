@@ -1,5 +1,5 @@
-Fri Oct 27 01:39:12 UTC 2023
-started at  2023-10-27T01:39:12.533407
+Sat Oct 28 01:37:24 UTC 2023
+started at  2023-10-28T01:37:24.404256
 input directory:  ../problem_instances
 output file:  ../summary.csv
 parsing ../problem_instances/problem_instance.07de80c3-caaf-4b01-a706-d7a8884e5285.json
