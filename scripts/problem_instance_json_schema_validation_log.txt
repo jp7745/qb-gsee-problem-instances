@@ -1,5 +1,5 @@
-Mon Oct 30 00:57:37 UTC 2023
-INFO:root:started at: 2023-10-30T00:57:37.370786
+Tue Oct 31 00:57:29 UTC 2023
+INFO:root:started at: 2023-10-31T00:57:29.833040
 INFO:root:input directory: ../problem_instances
 INFO:root:errored_files_directory file: ../problem_instances_WITH_ERRORS
 INFO:root:parsing ../problem_instances/problem_instance.07de80c3-caaf-4b01-a706-d7a8884e5285.json
