@@ -1,1 +1,292 @@
-{"problem_instance_uuid": "755aa1a4-7118-4df8-98f9-c507cb1b5640", "$schema": "https://raw.githubusercontent.com/jp7745/qb-file-schemas/main/schemas/problem_instance.schema.0.0.1.json", "problem_type": "GSEE", "application_domain": "QC", "calendar_due_date": null, "creation_timestamp": "2023-10-16T19:36:39.363130Z", "status": "in_force", "superseded_by": null, "contact_info": [{"name": "BOBQAT Team", "email": "bobqat@l3harris.com", "institution": "L3Harris Technologies, Inc", "other_info": {"website": "www.l3harris.com"}}, {"name": "Zapata AI", "email": "bobqat@zapatacomputing.com", "institution": "Zapata AI", "other_info": {"website": "https://zapata.ai/"}}], "short_name": "Li02_OER_family", "instance_data": [{"instance_data_object_uuid": "88888888-4444-4444-4444-121212121212", "instance_data_object_url": "https://this-example-does-not-work-yet", "instance_data_checksum_type": "sha1sum", "instance_data_checksum": "4040404040404040404040404040404040404040", "independent_parameters": {"configuration": "ts"}, "features": {"software_used": "CHEMISTRY_SOFTWARE_PLACEHOLDER", "molecule_name": "Li02_OER", "basis_set": "6-311++G**", "charge": "0", "multiplicity": "1", "avas_minao": "STO-3G", "method_type": "", "geometry": [{"element": "Li", "coodinates": [0.94886, 2.24431, 0.0]}, {"element": "O", "coodinates": [-0.39446, 1.34566, 0.70576]}, {"element": "O", "coodinates": [-0.39446, 1.34566, -0.70576]}, {"element": "Li", "coodinates": [-0.76279, -0.33618, 0.0]}, {"element": "O", "coodinates": [0.35393, -1.76128, 0.64643]}, {"element": "O", "coodinates": [0.35393, -1.76128, -0.64643]}], "avas_atomic_orbitals": [{"element": "Li", "orbital": "2s"}, {"element": "O", "orbital": "2s"}, {"element": "O", "orbital": "2p"}]}, "requirements": {"time_limit_seconds": 86400, "accuracy": 1.0, "enery_units": "millihartree"}}, {"instance_data_object_uuid": "88888888-4444-4444-4444-121212121212", "instance_data_object_url": "https://this-example-does-not-work-yet", "instance_data_checksum_type": "sha1sum", "instance_data_checksum": "4040404040404040404040404040404040404040", "independent_parameters": {"configuration": "p"}, "features": {"software_used": "CHEMISTRY_SOFTWARE_PLACEHOLDER", "molecule_name": "Li02_OER", "basis_set": "6-311++G**", "charge": "0", "multiplicity": "1", "avas_minao": "STO-3G", "method_type": "", "geometry": [{"element": "Li", "coodinates": [0.0, 0.0, -3.10707]}, {"element": "O", "coodinates": [-0.73472, -0.0, -1.50797]}, {"element": "O", "coodinates": [0.73472, 0.0, -1.50797]}, {"element": "Li", "coodinates": [0.0, 0.0, 0.15158]}, {"element": "O", "coodinates": [0.63192, 0.0, 2.15171]}, {"element": "O", "coodinates": [-0.63192, 0.0, 2.15171]}], "avas_atomic_orbitals": [{"element": "Li", "orbital": "2s"}, {"element": "O", "orbital": "2s"}, {"element": "O", "orbital": "2p"}]}, "requirements": {"time_limit_seconds": 86400, "accuracy": 1.0, "enery_units": "millihartree"}}, {"instance_data_object_uuid": "88888888-4444-4444-4444-121212121212", "instance_data_object_url": "https://this-example-does-not-work-yet", "instance_data_checksum_type": "sha1sum", "instance_data_checksum": "4040404040404040404040404040404040404040", "independent_parameters": {"configuration": "r"}, "features": {"software_used": "CHEMISTRY_SOFTWARE_PLACEHOLDER", "molecule_name": "Li02_OER", "basis_set": "6-311++G**", "charge": "0", "multiplicity": "1", "avas_minao": "STO-3G", "method_type": "", "geometry": [{"element": "Li", "coodinates": [-1.10784, -0.85772, 0.0]}, {"element": "O", "coodinates": [-1.02344, 0.94147, 0.67633]}, {"element": "O", "coodinates": [-1.02344, 0.94147, -0.67633]}, {"element": "Li", "coodinates": [0.76434, 1.17265, 0.0]}, {"element": "O", "coodinates": [0.64466, -1.50143, 0.0]}, {"element": "O", "coodinates": [1.55123, -0.51814, 0.0]}], "avas_atomic_orbitals": [{"element": "Li", "orbital": "2s"}, {"element": "O", "orbital": "2s"}, {"element": "O", "orbital": "2p"}]}, "requirements": {"time_limit_seconds": 86400, "accuracy": 1.0, "enery_units": "millihartree"}}]}
+{
+    "problem_instance_uuid": "755aa1a4-7118-4df8-98f9-c507cb1b5640",
+    "$schema": "https://raw.githubusercontent.com/jp7745/qb-file-schemas/main/schemas/problem_instance.schema.0.0.1.json",
+    "problem_type": "GSEE",
+    "application_domain": "QC",
+    "calendar_due_date": null,
+    "creation_timestamp": "2023-10-16T19:36:39.363130Z",
+    "status": "in_force",
+    "superseded_by": null,
+    "contact_info": [
+        {
+            "name": "BOBQAT Team",
+            "email": "bobqat@l3harris.com",
+            "institution": "L3Harris Technologies, Inc",
+            "other_info": {
+                "website": "www.l3harris.com"
+            }
+        },
+        {
+            "name": "Zapata AI",
+            "email": "bobqat@zapatacomputing.com",
+            "institution": "Zapata AI",
+            "other_info": {
+                "website": "https://zapata.ai/"
+            }
+        }
+    ],
+    "short_name": "LiO2_OER_family",
+    "instance_data": [
+        {
+            "instance_data_object_uuid": "88888888-4444-4444-4444-121212121212",
+            "instance_data_object_url": "https://this-example-does-not-work-yet",
+            "instance_data_checksum_type": "sha1sum",
+            "instance_data_checksum": "4040404040404040404040404040404040404040",
+            "independent_parameters": {
+                "configuration": "ts"
+            },
+            "features": {
+                "software_used": "CHEMISTRY_SOFTWARE_PLACEHOLDER",
+                "molecule_name": "LiO2_OER",
+                "basis_set": "6-311++G**",
+                "charge": "0",
+                "multiplicity": "1",
+                "avas_minao": "STO-3G",
+                "method_type": "",
+                "geometry": [
+                    {
+                        "element": "Li",
+                        "coodinates": [
+                            0.94886,
+                            2.24431,
+                            0.0
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "coodinates": [
+                            -0.39446,
+                            1.34566,
+                            0.70576
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "coodinates": [
+                            -0.39446,
+                            1.34566,
+                            -0.70576
+                        ]
+                    },
+                    {
+                        "element": "Li",
+                        "coodinates": [
+                            -0.76279,
+                            -0.33618,
+                            0.0
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "coodinates": [
+                            0.35393,
+                            -1.76128,
+                            0.64643
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "coodinates": [
+                            0.35393,
+                            -1.76128,
+                            -0.64643
+                        ]
+                    }
+                ],
+                "avas_atomic_orbitals": [
+                    {
+                        "element": "Li",
+                        "orbital": "2s"
+                    },
+                    {
+                        "element": "O",
+                        "orbital": "2s"
+                    },
+                    {
+                        "element": "O",
+                        "orbital": "2p"
+                    }
+                ]
+            },
+            "requirements": {
+                "time_limit_seconds": 86400,
+                "accuracy": 1.0,
+                "enery_units": "millihartree"
+            }
+        },
+        {
+            "instance_data_object_uuid": "88888888-4444-4444-4444-121212121212",
+            "instance_data_object_url": "https://this-example-does-not-work-yet",
+            "instance_data_checksum_type": "sha1sum",
+            "instance_data_checksum": "4040404040404040404040404040404040404040",
+            "independent_parameters": {
+                "configuration": "p"
+            },
+            "features": {
+                "software_used": "CHEMISTRY_SOFTWARE_PLACEHOLDER",
+                "molecule_name": "LiO2_OER",
+                "basis_set": "6-311++G**",
+                "charge": "0",
+                "multiplicity": "1",
+                "avas_minao": "STO-3G",
+                "method_type": "",
+                "geometry": [
+                    {
+                        "element": "Li",
+                        "coodinates": [
+                            0.0,
+                            0.0,
+                            -3.10707
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "coodinates": [
+                            -0.73472,
+                            -0.0,
+                            -1.50797
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "coodinates": [
+                            0.73472,
+                            0.0,
+                            -1.50797
+                        ]
+                    },
+                    {
+                        "element": "Li",
+                        "coodinates": [
+                            0.0,
+                            0.0,
+                            0.15158
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "coodinates": [
+                            0.63192,
+                            0.0,
+                            2.15171
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "coodinates": [
+                            -0.63192,
+                            0.0,
+                            2.15171
+                        ]
+                    }
+                ],
+                "avas_atomic_orbitals": [
+                    {
+                        "element": "Li",
+                        "orbital": "2s"
+                    },
+                    {
+                        "element": "O",
+                        "orbital": "2s"
+                    },
+                    {
+                        "element": "O",
+                        "orbital": "2p"
+                    }
+                ]
+            },
+            "requirements": {
+                "time_limit_seconds": 86400,
+                "accuracy": 1.0,
+                "enery_units": "millihartree"
+            }
+        },
+        {
+            "instance_data_object_uuid": "88888888-4444-4444-4444-121212121212",
+            "instance_data_object_url": "https://this-example-does-not-work-yet",
+            "instance_data_checksum_type": "sha1sum",
+            "instance_data_checksum": "4040404040404040404040404040404040404040",
+            "independent_parameters": {
+                "configuration": "r"
+            },
+            "features": {
+                "software_used": "CHEMISTRY_SOFTWARE_PLACEHOLDER",
+                "molecule_name": "LiO2_OER",
+                "basis_set": "6-311++G**",
+                "charge": "0",
+                "multiplicity": "1",
+                "avas_minao": "STO-3G",
+                "method_type": "",
+                "geometry": [
+                    {
+                        "element": "Li",
+                        "coodinates": [
+                            -1.10784,
+                            -0.85772,
+                            0.0
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "coodinates": [
+                            -1.02344,
+                            0.94147,
+                            0.67633
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "coodinates": [
+                            -1.02344,
+                            0.94147,
+                            -0.67633
+                        ]
+                    },
+                    {
+                        "element": "Li",
+                        "coodinates": [
+                            0.76434,
+                            1.17265,
+                            0.0
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "coodinates": [
+                            0.64466,
+                            -1.50143,
+                            0.0
+                        ]
+                    },
+                    {
+                        "element": "O",
+                        "coodinates": [
+                            1.55123,
+                            -0.51814,
+                            0.0
+                        ]
+                    }
+                ],
+                "avas_atomic_orbitals": [
+                    {
+                        "element": "Li",
+                        "orbital": "2s"
+                    },
+                    {
+                        "element": "O",
+                        "orbital": "2s"
+                    },
+                    {
+                        "element": "O",
+                        "orbital": "2p"
+                    }
+                ]
+            },
+            "requirements": {
+                "time_limit_seconds": 86400,
+                "accuracy": 1.0,
+                "enery_units": "millihartree"
+            }
+        }
+    ]
+}
