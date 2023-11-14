@@ -1,5 +1,5 @@
-Mon Nov 13 00:59:48 UTC 2023
-INFO:root:started at: 2023-11-13T00:59:48.216311
+Tue Nov 14 00:58:00 UTC 2023
+INFO:root:started at: 2023-11-14T00:58:00.709375
 INFO:root:input directory: ../problem_instances
 INFO:root:errored_files_directory file: ../problem_instances_WITH_ERRORS
 INFO:root:parsing ../problem_instances/problem_instance.9e6c22eb-2416-49a7-82a7-cc7336ec7864.json
