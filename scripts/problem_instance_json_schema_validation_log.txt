@@ -1,5 +1,5 @@
-Fri Dec  1 01:05:20 UTC 2023
-INFO:root:started at: 2023-12-01T01:05:20.719646
+Sat Dec  2 00:57:57 UTC 2023
+INFO:root:started at: 2023-12-02T00:57:57.111403
 INFO:root:input directory: ../problem_instances
 INFO:root:errored_files_directory file: ../problem_instances_WITH_ERRORS
 INFO:root:parsing ../problem_instances/problem_instance.f4ddeb6c-1e74-498c-90f9-b5061e35fa4d.json
