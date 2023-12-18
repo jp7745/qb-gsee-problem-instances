@@ -1,5 +1,5 @@
-Sun Dec 17 01:04:30 UTC 2023
-INFO:root:started at: 2023-12-17T01:04:30.524472
+Mon Dec 18 01:01:23 UTC 2023
+INFO:root:started at: 2023-12-18T01:01:23.931862
 INFO:root:input directory: ../problem_instances
 INFO:root:errored_files_directory file: ../problem_instances_WITH_ERRORS
 INFO:root:parsing ../problem_instances/problem_instance.1e331054-6538-4d99-9685-eaba256ed47a.json
