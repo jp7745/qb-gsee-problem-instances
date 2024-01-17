@@ -1,5 +1,5 @@
-Tue Jan 16 01:00:50 UTC 2024
-INFO:root:started at: 2024-01-16T01:00:50.389168
+Wed Jan 17 01:01:26 UTC 2024
+INFO:root:started at: 2024-01-17T01:01:26.310668
 INFO:root:input directory: ../problem_instances
 INFO:root:errored_files_directory file: ../problem_instances_WITH_ERRORS
 INFO:root:parsing ../problem_instances/problem_instance.1e331054-6538-4d99-9685-eaba256ed47a.json
