@@ -1,5 +1,5 @@
-Sun Feb 25 01:41:34 UTC 2024
-started at  2024-02-25T01:41:34.872182
+Mon Feb 26 01:40:09 UTC 2024
+started at  2024-02-26T01:40:09.579167
 input directory:  ../problem_instances
 output file:  ../summary.csv
 parsing ../problem_instances/problem_instance.210caccb-12d2-4bcc-ae44-6cf4f2b23ffd.json
