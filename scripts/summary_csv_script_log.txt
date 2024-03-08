@@ -1,5 +1,5 @@
-Thu Mar  7 01:23:57 UTC 2024
-started at  2024-03-07T01:23:57.274902
+Fri Mar  8 01:37:42 UTC 2024
+started at  2024-03-08T01:37:42.187389
 input directory:  ../problem_instances
 output file:  ../summary.csv
 parsing ../problem_instances/problem_instance.f2e77002-64c1-4e20-bca8-10fb243f7c1d.json
