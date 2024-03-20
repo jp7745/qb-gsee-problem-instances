@@ -12,9 +12,9 @@ The data files may be large, so typically the JSON file only contains the metada
 
 ### How do I download the associated data files (e.g., Hamiltonians)?
 
-Each problem_instance file may point to data sets on different servers, so you'll need to contact the POCs referenced in each problem_instance file.
+Each `problem_instance` file may point to data sets on different servers, so you'll need to contact the POCs referenced in each `problem_instance`` file.
 
-For the current set of GSEE problem_instances provided by the BOBQAT team, the data lives on an SFTP server at sftp.l3harris.com. The read-only credentials for accessing the Hamiltonian files are available on the QB program basecamp here XXX_insert_link_XXX.
+For the current set of GSEE `problem_instances`` provided by the BOBQAT team, the data lives on an SFTP server at `sftp.l3harris.com``. The read-only credentials for accessing the Hamiltonian files are available on the QB program basecamp here XXX_insert_link_XXX.
 
 You may use any SFTP client you want.  There is an example Python script to programmatically download the files in the `examples` directory.
 
