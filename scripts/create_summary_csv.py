@@ -32,7 +32,7 @@ def main(args):
     print("input directory: ", input_directory)
     print("output file: ", output_csv_file_name)
 
-    csv_field_names = ["count","file_name", "problem_instance_uuid", "team", "creation_timestamp", "short_name", "number_of_hamiltonians", "sweep_parameters"]
+    csv_field_names = ["count","file_name", "problem_instance_uuid", "team", "creation_timestamp", "short_name", "number_of_hamiltonians"]
     count = 0
 
     with open(output_csv_file_name, mode="w", newline="") as csv_file:
@@ -66,12 +66,6 @@ def main(args):
                 row["short_name"] = problem_instance["short_name"]
                 
                 row["number_of_hamiltonians"] = len(problem_instance["instance_data"])
-
-                sweep_parameters = ""
-                param_keys = problem_instance["instance_data"][0]["independent_parameters"].keys()
-                for p in param_keys:
-                    sweep_parameters += p + "/"
-                row["sweep_parameters"] = sweep_parameters
 
                 # write "row" data for csv file.
                 writer.writerow(row)
