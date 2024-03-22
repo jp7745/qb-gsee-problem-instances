@@ -1,5 +1,5 @@
-Thu Mar 21 01:39:39 UTC 2024
-started at  2024-03-21T01:39:39.057505
+Fri Mar 22 01:38:02 UTC 2024
+started at  2024-03-22T01:38:02.412293
 input directory:  ../problem_instances
 output file:  ../summary.csv
 parsing ../problem_instances/problem_instance.blue_dimer.dc8bdc56-5ebd-4996-6b81-81b1a06d8c76.json
