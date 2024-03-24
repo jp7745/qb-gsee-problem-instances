@@ -1,5 +1,5 @@
-Sat Mar 23 00:55:31 UTC 2024
-INFO:root:started at: 2024-03-23T00:55:31.618979
+Sun Mar 24 01:02:27 UTC 2024
+INFO:root:started at: 2024-03-24T01:02:27.854530
 INFO:root:input directory: ../problem_instances
 INFO:root:errored_files_directory file: ../problem_instances_WITH_ERRORS
 INFO:root:parsing ../problem_instances/problem_instance.blue_dimer.dc8bdc56-5ebd-4996-6b81-81b1a06d8c76.json
