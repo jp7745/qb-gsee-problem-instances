@@ -1,5 +1,5 @@
-Fri Apr 26 00:58:47 UTC 2024
-INFO:root:started at: 2024-04-26T00:58:48.105964
+Sat Apr 27 00:58:13 UTC 2024
+INFO:root:started at: 2024-04-27T00:58:13.942445
 INFO:root:input directory: ../problem_instances
 INFO:root:errored_files_directory file: ../problem_instances_WITH_ERRORS
 INFO:root:parsing ../problem_instances/problem_instance.mo_n2_pincer.8a3787cc-d3d0-42a8-d9a9-7de2aed45208.json
