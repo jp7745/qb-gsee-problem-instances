@@ -1,5 +1,5 @@
-Tue May  7 01:44:38 UTC 2024
-started at  2024-05-07T01:44:38.142326
+Wed May  8 01:27:51 UTC 2024
+started at  2024-05-08T01:27:51.901522
 input directory:  ../problem_instances
 output file:  ../summary.csv
 parsing ../problem_instances/problem_instance.mo_n2_pincer.8a3787cc-d3d0-42a8-d9a9-7de2aed45208.json
