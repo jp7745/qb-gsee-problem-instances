@@ -1,5 +1,5 @@
-Wed May  8 00:50:05 UTC 2024
-INFO:root:started at: 2024-05-08T00:50:05.977192
+Thu May  9 01:00:03 UTC 2024
+INFO:root:started at: 2024-05-09T01:00:03.285508
 INFO:root:input directory: ../problem_instances
 INFO:root:errored_files_directory file: ../problem_instances_WITH_ERRORS
 INFO:root:parsing ../problem_instances/problem_instance.mo_n2_pincer.8a3787cc-d3d0-42a8-d9a9-7de2aed45208.json
