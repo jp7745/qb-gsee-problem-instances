@@ -1,5 +1,5 @@
-Wed Jun 12 01:53:41 UTC 2024
-started at  2024-06-12T01:53:41.686097
+Thu Jun 13 01:52:35 UTC 2024
+started at  2024-06-13T01:52:35.956519
 input directory:  ../problem_instances
 output file:  ../summary.csv
 parsing ../problem_instances/problem_instance.ru_macho.b78a10f2-ce8a-43c0-69ec-4cf666d8e85c.json
