@@ -1,5 +1,5 @@
-Fri Jun 14 01:03:28 UTC 2024
-INFO:root:started at: 2024-06-14T01:03:28.496816
+Sat Jun 15 01:03:29 UTC 2024
+INFO:root:started at: 2024-06-15T01:03:29.262462
 INFO:root:input directory: ../problem_instances
 INFO:root:errored_files_directory file: ../problem_instances_WITH_ERRORS
 INFO:root:parsing ../problem_instances/problem_instance.ru_macho.b78a10f2-ce8a-43c0-69ec-4cf666d8e85c.json
