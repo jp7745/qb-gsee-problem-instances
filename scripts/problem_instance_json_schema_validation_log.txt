@@ -1,5 +1,5 @@
-Thu Jul 11 01:06:11 UTC 2024
-INFO:root:started at: 2024-07-11T01:06:11.246290
+Fri Jul 12 01:04:50 UTC 2024
+INFO:root:started at: 2024-07-12T01:04:50.131022
 INFO:root:input directory: ../problem_instances
 INFO:root:errored_files_directory file: ../problem_instances_WITH_ERRORS
 INFO:root:parsing ../problem_instances/problem_instance.mo_n2.664ec8e4-09d5-41cc-6266-ddb26219366f.json
