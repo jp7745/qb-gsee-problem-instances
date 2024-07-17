@@ -1,5 +1,5 @@
-Tue Jul 16 01:58:00 UTC 2024
-started at  2024-07-16T01:58:00.803059
+Wed Jul 17 01:57:06 UTC 2024
+started at  2024-07-17T01:57:06.134996
 input directory:  ../problem_instances
 output file:  ../summary.csv
 parsing ../problem_instances/problem_instance.mo_n2.664ec8e4-09d5-41cc-6266-ddb26219366f.json
