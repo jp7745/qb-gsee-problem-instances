@@ -1,5 +1,5 @@
-Tue Aug  6 01:57:46 UTC 2024
-started at  2024-08-06T01:57:46.305790
+Wed Aug  7 01:59:45 UTC 2024
+started at  2024-08-07T01:59:45.373780
 input directory:  ../problem_instances
 output file:  ../summary.csv
 parsing ../problem_instances/problem_instance.ru_mono.7213642b-5f16-48be-d5e5-2bc42ebb8526.json
