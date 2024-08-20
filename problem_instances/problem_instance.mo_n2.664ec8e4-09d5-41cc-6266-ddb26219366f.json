@@ -34,10 +34,10 @@
     ],
     "instance_data": [
         {
-            "instance_data_object_uuid": "b3d426a4-b79d-4e7c-f5c6-126162e826b3",
-            "instance_data_object_url": "sftp://sftp.l3harris.com/gsee/mo_n2.mo_n2-.b3d426a4-b79d-4e7c-f5c6-126162e826b3.fcidump.gz",
+            "instance_data_object_uuid": "23aa47ca-9afe-4086-bd97-75de310e033e",
+            "instance_data_object_url": "sftp://sftp.l3harris.com/gsee/fcidump.9_mo_n2-_noncan_0.2_new.23aa47ca-9afe-4086-bd97-75de310e033e.gz",
             "instance_data_checksum_type": "sha1sum",
-            "instance_data_checksum": "fd3c41f75c6c3f04431cb86e771cf2a4d2fe9212",
+            "instance_data_checksum": "a6b094eb82c276a211b32573b0064fbce74c8847",
             "features": {
                 "software_used": "PySCF 2.2.1",
                 "molecule_name": "mo_n2-",
@@ -335,9 +335,11 @@
                     "Mo 5s",
                     "Mo 4d"
                 ],
-                "avas_minao": "STO-3G",
-                "utility_scale": false,
-                "avas_no_ne": "(33, 46)"
+                "avas_minao": "minao",
+                "avas_ne": 46,
+                "avas_no": 31,
+                "nbasis": 2515,
+                "utility_scale": false
             },
             "requirements": {
                 "probability_of_success": 0.99,
@@ -348,10 +350,10 @@
             }
         },
         {
-            "instance_data_object_uuid": "53e574cb-e5e7-4378-ab9a-0b56ca946491",
-            "instance_data_object_url": "sftp://sftp.l3harris.com/gsee/mo_n2.fecp2+_s0.5.53e574cb-e5e7-4378-ab9a-0b56ca946491.fcidump.gz",
+            "instance_data_object_uuid": "e10bd99a-435c-41cd-84f1-41bd67890fc7",
+            "instance_data_object_url": "sftp://sftp.l3harris.com/gsee/fcidump.10_fecp2+_s0.5_noncan_0.2_new.e10bd99a-435c-41cd-84f1-41bd67890fc7.gz",
             "instance_data_checksum_type": "sha1sum",
-            "instance_data_checksum": "a9a35183c6d14f2020abca3b47240804cba9f7ae",
+            "instance_data_checksum": "0ed790446a7c06ca5031c6d541ea87ef0678d414",
             "features": {
                 "software_used": "PySCF 2.2.1",
                 "molecule_name": "fecp2+_s0.5",
@@ -378,9 +380,7 @@
                     "H -1.628647 -1.356853 1.893548",
                     "H -1.747595 -2.185704 -0.689874"
                 ],
-                "basis_set": {
-                    "default": "def2-tzvp"
-                },
+                "basis_set": "def2-tzvp",
                 "charge": 1,
                 "multiplicity": 2,
                 "avas_atomic_orbitals": [
@@ -389,9 +389,11 @@
                     "C 2s",
                     "C 2p"
                 ],
-                "avas_minao": "STO-3G",
-                "utility_scale": false,
-                "avas_no_ne": "(46, 57)"
+                "avas_minao": "minao",
+                "avas_ne": 57,
+                "avas_no": 46,
+                "nbasis": 415,
+                "utility_scale": false
             },
             "requirements": {
                 "probability_of_success": 0.99,
@@ -402,10 +404,10 @@
             }
         },
         {
-            "instance_data_object_uuid": "6bf759b2-6598-4264-89ea-8aa027e49a7c",
-            "instance_data_object_url": "sftp://sftp.l3harris.com/gsee/mo_n2.fecp2_s0.6bf759b2-6598-4264-89ea-8aa027e49a7c.fcidump.gz",
+            "instance_data_object_uuid": "b71baf3c-d5f0-4f8d-aead-648ba69a058e",
+            "instance_data_object_url": "sftp://sftp.l3harris.com/gsee/fcidump.11_fecp2_s0_noncan_0.2_new.b71baf3c-d5f0-4f8d-aead-648ba69a058e.gz",
             "instance_data_checksum_type": "sha1sum",
-            "instance_data_checksum": "044e919be3ae9c934f2a4d27d2a97d6be98bff73",
+            "instance_data_checksum": "83d02badaf8cf9daccf978298364999333b61e19",
             "features": {
                 "software_used": "PySCF 2.2.1",
                 "molecule_name": "fecp2_s0",
@@ -432,9 +434,7 @@
                     "H -1.597258 -1.356994 1.896881",
                     "H -1.647940 -2.193502 -0.681757"
                 ],
-                "basis_set": {
-                    "default": "def2-tzvp"
-                },
+                "basis_set": "def2-tzvp",
                 "charge": 0,
                 "multiplicity": 1,
                 "avas_atomic_orbitals": [
@@ -443,9 +443,11 @@
                     "C 2s",
                     "C 2p"
                 ],
-                "avas_minao": "STO-3G",
-                "utility_scale": false,
-                "avas_no_ne": "(46, 58)"
+                "avas_minao": "minao",
+                "avas_ne": 58,
+                "avas_no": 46,
+                "nbasis": 415,
+                "utility_scale": false
             },
             "requirements": {
                 "probability_of_success": 0.99,
@@ -456,10 +458,10 @@
             }
         },
         {
-            "instance_data_object_uuid": "8eda4f05-d452-4aa0-8ab7-9d9ce8508d54",
-            "instance_data_object_url": "sftp://sftp.l3harris.com/gsee/mo_n2.mo_n2.8eda4f05-d452-4aa0-8ab7-9d9ce8508d54.fcidump.gz",
+            "instance_data_object_uuid": "77c12db8-c32e-4f88-8552-9762a0fff763",
+            "instance_data_object_url": "sftp://sftp.l3harris.com/gsee/fcidump.12_mo_n2_noncan_0.2_new.77c12db8-c32e-4f88-8552-9762a0fff763.gz",
             "instance_data_checksum_type": "sha1sum",
-            "instance_data_checksum": "cc040c183c372b8d5e6d2a30256f4ec7161adae1",
+            "instance_data_checksum": "1849368865c1c272300c181badb71f5bf7f108ec",
             "features": {
                 "software_used": "PySCF 2.2.1",
                 "molecule_name": "mo_n2",
@@ -757,9 +759,11 @@
                     "Mo 5s",
                     "Mo 4d"
                 ],
-                "avas_minao": "STO-3G",
-                "utility_scale": false,
-                "avas_no_ne": "(33, 45)"
+                "avas_minao": "minao",
+                "avas_ne": 45,
+                "avas_no": 30,
+                "nbasis": 2515,
+                "utility_scale": false
             },
             "requirements": {
                 "probability_of_success": 0.99,

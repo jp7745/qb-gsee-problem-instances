@@ -34,10 +34,10 @@
     ],
     "instance_data": [
         {
-            "instance_data_object_uuid": "6da95771-3f1e-4830-b765-5d430acdc364",
-            "instance_data_object_url": "sftp://sftp.l3harris.com/gsee/ru_mono.2ru_III_3pl.6da95771-3f1e-4830-b765-5d430acdc364.fcidump.gz",
+            "instance_data_object_uuid": "cb60079d-5a30-4e3a-89d5-dbe95822df5e",
+            "instance_data_object_url": "sftp://sftp.l3harris.com/gsee/fcidump.32_2ru_III_3pl_noncan_0.2_new.cb60079d-5a30-4e3a-89d5-dbe95822df5e.gz",
             "instance_data_checksum_type": "sha1sum",
-            "instance_data_checksum": "932423391e5aea2bee84986a9e9272d958b1d7ea",
+            "instance_data_checksum": "322fe82217da43212d000f20d80414bb27d5065d",
             "features": {
                 "software_used": "PySCF 2.2.1",
                 "molecule_name": "2ru_III_3pl",
@@ -122,9 +122,11 @@
                     "Ru 4d",
                     "Ru 5s"
                 ],
-                "avas_minao": "STO-3G",
-                "utility_scale": false,
-                "avas_no_ne": "(7, 11)"
+                "avas_minao": "minao",
+                "avas_ne": 11,
+                "avas_no": 9,
+                "nbasis": 895,
+                "utility_scale": false
             },
             "requirements": {
                 "probability_of_success": 0.99,
@@ -135,10 +137,10 @@
             }
         },
         {
-            "instance_data_object_uuid": "35980df2-9700-4b77-09b9-309dcdcc633b",
-            "instance_data_object_url": "sftp://sftp.l3harris.com/gsee/ru_mono.2ru_III_3pl.35980df2-9700-4b77-09b9-309dcdcc633b.fcidump.gz",
+            "instance_data_object_uuid": "4811297e-a8df-4150-9d4d-376fd0c6e9cd",
+            "instance_data_object_url": "sftp://sftp.l3harris.com/gsee/fcidump.33_2ru_III_3pl_noncan_0.2_new.4811297e-a8df-4150-9d4d-376fd0c6e9cd.gz",
             "instance_data_checksum_type": "sha1sum",
-            "instance_data_checksum": "add1ed03c874428c65729dd107752ddee6b184c6",
+            "instance_data_checksum": "02e8589ecadbbf164ee7a75e291f455abf76a1aa",
             "features": {
                 "software_used": "PySCF 2.2.1",
                 "molecule_name": "2ru_III_3pl",
@@ -225,9 +227,11 @@
                     "N 2s",
                     "N 2p"
                 ],
-                "avas_minao": "STO-3G",
-                "utility_scale": false,
-                "avas_no_ne": "(37, 59)"
+                "avas_minao": "minao",
+                "avas_ne": 53,
+                "avas_no": 34,
+                "nbasis": 895,
+                "utility_scale": false
             },
             "requirements": {
                 "probability_of_success": 0.99,
@@ -238,10 +242,10 @@
             }
         },
         {
-            "instance_data_object_uuid": "2b794360-e62e-4cd0-2809-061849474504",
-            "instance_data_object_url": "sftp://sftp.l3harris.com/gsee/ru_mono.3ruo_IV_2pl.2b794360-e62e-4cd0-2809-061849474504.fcidump.gz",
+            "instance_data_object_uuid": "30c3e4f9-1b24-4fe5-9cab-ad0b67e0d74b",
+            "instance_data_object_url": "sftp://sftp.l3harris.com/gsee/fcidump.34_3ruo_IV_2pl_noncan_0.2_new.30c3e4f9-1b24-4fe5-9cab-ad0b67e0d74b.gz",
             "instance_data_checksum_type": "sha1sum",
-            "instance_data_checksum": "5e875b1a52f97036b04aad722cd92cc9bdf7cb68",
+            "instance_data_checksum": "ef343b3f0af21f1a11aaa8d39cfca2ac5fc9da28",
             "features": {
                 "software_used": "PySCF 2.2.1",
                 "molecule_name": "3ruo_IV_2pl",
@@ -327,9 +331,11 @@
                     "Ru 4d",
                     "Ru 5s"
                 ],
-                "avas_minao": "STO-3G",
-                "utility_scale": false,
-                "avas_no_ne": "(7, 10)"
+                "avas_minao": "minao",
+                "avas_ne": 10,
+                "avas_no": 10,
+                "nbasis": 913,
+                "utility_scale": false
             },
             "requirements": {
                 "probability_of_success": 0.99,
@@ -340,10 +346,10 @@
             }
         },
         {
-            "instance_data_object_uuid": "4a4f710f-6f36-4e40-9834-fa7310e4e19e",
-            "instance_data_object_url": "sftp://sftp.l3harris.com/gsee/ru_mono.3ruo_IV_2pl.4a4f710f-6f36-4e40-9834-fa7310e4e19e.fcidump.gz",
+            "instance_data_object_uuid": "a2417602-4e97-4395-b3f0-1e29262c8053",
+            "instance_data_object_url": "sftp://sftp.l3harris.com/gsee/fcidump.35_3ruo_IV_2pl_noncan_0.2_new.a2417602-4e97-4395-b3f0-1e29262c8053.gz",
             "instance_data_checksum_type": "sha1sum",
-            "instance_data_checksum": "cff66a19555edc34e8da0b58bb340ef44edb989b",
+            "instance_data_checksum": "c6d7456e3c2436e25e2fb08142ddc7a44a848a44",
             "features": {
                 "software_used": "PySCF 2.2.1",
                 "molecule_name": "3ruo_IV_2pl",
@@ -433,9 +439,11 @@
                     "O 2s",
                     "O 2p"
                 ],
-                "avas_minao": "STO-3G",
-                "utility_scale": false,
-                "avas_no_ne": "(42, 66)"
+                "avas_minao": "minao",
+                "avas_ne": 58,
+                "avas_no": 36,
+                "nbasis": 913,
+                "utility_scale": false
             },
             "requirements": {
                 "probability_of_success": 0.99,
@@ -446,10 +454,10 @@
             }
         },
         {
-            "instance_data_object_uuid": "dd14af22-521b-4271-8c28-caf4b3c7800c",
-            "instance_data_object_url": "sftp://sftp.l3harris.com/gsee/ru_mono.1ru_II_2pl.dd14af22-521b-4271-8c28-caf4b3c7800c.fcidump.gz",
+            "instance_data_object_uuid": "51f7d629-9a0e-4688-8562-59a5f0c0a404",
+            "instance_data_object_url": "sftp://sftp.l3harris.com/gsee/fcidump.36_1ru_II_2pl_noncan_0.2_new.51f7d629-9a0e-4688-8562-59a5f0c0a404.gz",
             "instance_data_checksum_type": "sha1sum",
-            "instance_data_checksum": "dec2a90ad573bc78997b9ec8ef05ed1d826f3aa7",
+            "instance_data_checksum": "3bcc1d35960b4ebd3f54feaa8b6f49065afb87cd",
             "features": {
                 "software_used": "PySCF 2.2.1",
                 "molecule_name": "1ru_II_2pl",
@@ -534,9 +542,11 @@
                     "Ru 4d",
                     "Ru 5s"
                 ],
-                "avas_minao": "STO-3G",
-                "utility_scale": false,
-                "avas_no_ne": "(7, 12)"
+                "avas_minao": "minao",
+                "avas_ne": 12,
+                "avas_no": 9,
+                "nbasis": 895,
+                "utility_scale": false
             },
             "requirements": {
                 "probability_of_success": 0.99,
@@ -547,10 +557,10 @@
             }
         },
         {
-            "instance_data_object_uuid": "ecccda01-cd15-479e-853c-e0a3ec6d887c",
-            "instance_data_object_url": "sftp://sftp.l3harris.com/gsee/ru_mono.1ru_II_2pl.ecccda01-cd15-479e-853c-e0a3ec6d887c.fcidump.gz",
+            "instance_data_object_uuid": "7be1766a-b3f7-4779-9a69-f4358645831b",
+            "instance_data_object_url": "sftp://sftp.l3harris.com/gsee/fcidump.37_1ru_II_2pl_noncan_0.2_new.7be1766a-b3f7-4779-9a69-f4358645831b.gz",
             "instance_data_checksum_type": "sha1sum",
-            "instance_data_checksum": "d83f6abc7c688adcf704a9d216549db23f81d721",
+            "instance_data_checksum": "6b839263be33f87d9b355af41d8443175c444051",
             "features": {
                 "software_used": "PySCF 2.2.1",
                 "molecule_name": "1ru_II_2pl",
@@ -637,9 +647,11 @@
                     "N 2s",
                     "N 2p"
                 ],
-                "avas_minao": "STO-3G",
-                "utility_scale": false,
-                "avas_no_ne": "(37, 60)"
+                "avas_minao": "minao",
+                "avas_ne": 54,
+                "avas_no": 34,
+                "nbasis": 895,
+                "utility_scale": false
             },
             "requirements": {
                 "probability_of_success": 0.99,
