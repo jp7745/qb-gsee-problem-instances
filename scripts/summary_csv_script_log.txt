@@ -1,9 +1,7 @@
-Tue Aug 20 01:58:09 UTC 2024
-started at  2024-08-20T01:58:09.097173
+Wed Aug 21 01:58:34 UTC 2024
+started at  2024-08-21T01:58:34.295779
 input directory:  ../problem_instances
 output file:  ../summary.csv
-parsing ../problem_instances/problem_instance.ru_macho.b78a10f2-ce8a-43c0-69ec-4cf666d8e85c.json
-parsing ../problem_instances/problem_instance.fe_red.a8895776-3583-4884-fbc7-d6f9df21a7ac.json
 parsing ../problem_instances/problem_instance.mo2_n2.90d4e4fc-1216-4846-b45f-198c0530e29b.json
 parsing ../problem_instances/problem_instance.mn_mono.cb40f3f7-ffe8-40e8-4544-f26aad5a8bd8.json
 parsing ../problem_instances/problem_instance.blue_dimer.dc8bdc56-5ebd-4996-6b81-81b1a06d8c76.json
