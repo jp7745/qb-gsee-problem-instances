@@ -1,5 +1,5 @@
-Sat Aug 31 01:09:55 UTC 2024
-INFO:root:started at: 2024-08-31T01:09:55.120943
+Sun Sep  1 01:21:11 UTC 2024
+INFO:root:started at: 2024-09-01T01:21:11.316995
 INFO:root:input directory: ../problem_instances
 INFO:root:errored_files_directory file: ../problem_instances_WITH_ERRORS
 INFO:root:parsing ../problem_instances/problem_instance.mo2_n2.90d4e4fc-1216-4846-b45f-198c0530e29b.json
