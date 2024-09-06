@@ -1,0 +1,37 @@
+{
+    "problem_instance_uuid": "a8895776-3583-4884-fbc7-d6f9df21a7ac",
+    "$schema": "https://raw.githubusercontent.com/jp7745/qb-file-schemas/main/schemas/problem_instance.schema.0.0.1.json",
+    "problem_type": "GSEE",
+    "application_domain": "QC",
+    "creation_timestamp": "2024-03-20T20:48:21.795324+00:00",
+    "calendar_due_date": "2124-03-20T20:48:21.795324+00:00",
+    "status": "in_force",
+    "superseded_by": null,
+    "contact_info": [
+        {
+            "name": "BOBQAT Team",
+            "email": "bobqat@l3harris.com",
+            "institution": "L3Harris Technologies, Inc",
+            "other_info": {
+                "website": "www.l3harris.com"
+            }
+        },
+        {
+            "name": "Zapata AI",
+            "email": "bobqat@zapatacomputing.com",
+            "institution": "Zapata AI",
+            "other_info": {
+                "website": "https://zapata.ai/"
+            }
+        }
+    ],
+    "license": {
+        "name": "Apache 2.0",
+        "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    },
+    "references": [
+        "Organomet. 2012, 31 (21), 7375\u00e2\u20ac\u201c7385"
+    ],
+    "instance_data": [],
+    "short_name": "fe_red"
+}
