@@ -1,5 +1,5 @@
-Sat Sep  7 01:09:34 UTC 2024
-INFO:root:started at: 2024-09-07T01:09:35.041816
+Sun Sep  8 01:16:31 UTC 2024
+INFO:root:started at: 2024-09-08T01:16:31.820519
 INFO:root:input directory: ../problem_instances
 INFO:root:errored_files_directory file: ../problem_instances_WITH_ERRORS
 INFO:root:parsing ../problem_instances/problem_instance.mn_mono.cb40f3f7-ffe8-40e8-4544-f26aad5a8bd8.json
