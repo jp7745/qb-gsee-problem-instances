@@ -4,7 +4,7 @@ Ground State Energy Estimation (GSEE) `problem_instance` JSON files for the Quan
 
 ### What is it?
 
-A set of `problem_instance` JSON files that contain the metadata about a specific challenge problem in GSEE.  The file also includes requirements for the performer in terms of runtime and accuracy.  The schema for the JSON file is here:  https://github.com/jp7745/qb-file-schemas
+A set of `problem_instance` JSON files that contain the metadata about a specific challenge problem in GSEE.  The file also includes requirements for the performer in terms of runtime and accuracy.  The schema for the JSON file is here:  https://github.com/zapatacomputing/qb-gsee-benchmark/tree/main/instances/schemas
 
 ### Where is the data?
 
@@ -32,7 +32,7 @@ Note that the schema includes a field for `license`, so you may choose the appro
 
 ###  What if the JSON schema doesn't have the fields I want to use?
 
-The schemas live in a different repository:  https://github.com/jp7745/qb-file-schemas
+The schemas live in a different repository:  https://github.com/zapatacomputing/qb-gsee-benchmark/tree/main/instances/schemas
 
 Contact the BOBQAT team and we'll discuss modifying the schema.
 
