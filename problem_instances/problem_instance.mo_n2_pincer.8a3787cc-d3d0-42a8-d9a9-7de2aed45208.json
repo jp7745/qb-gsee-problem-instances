@@ -161,7 +161,7 @@
                 "probability_of_success": 0.99,
                 "time_limit_seconds": 172800,
                 "accuracy": 1.0,
-                "enery_units": "millihartree",
+                "energy_units": "millihartree",
                 "energy_target": 0.99
             }
         },
@@ -297,7 +297,7 @@
                 "probability_of_success": 0.99,
                 "time_limit_seconds": 172800,
                 "accuracy": 1.0,
-                "enery_units": "millihartree",
+                "energy_units": "millihartree",
                 "energy_target": 0.99
             }
         },
@@ -429,7 +429,7 @@
                 "probability_of_success": 0.99,
                 "time_limit_seconds": 172800,
                 "accuracy": 1.0,
-                "enery_units": "millihartree",
+                "energy_units": "millihartree",
                 "energy_target": 0.99
             }
         },
@@ -565,7 +565,7 @@
                 "probability_of_success": 0.99,
                 "time_limit_seconds": 172800,
                 "accuracy": 1.0,
-                "enery_units": "millihartree",
+                "energy_units": "millihartree",
                 "energy_target": 0.99
             }
         },
@@ -697,7 +697,7 @@
                 "probability_of_success": 0.99,
                 "time_limit_seconds": 172800,
                 "accuracy": 1.0,
-                "enery_units": "millihartree",
+                "energy_units": "millihartree",
                 "energy_target": 0.99
             }
         },
@@ -833,7 +833,7 @@
                 "probability_of_success": 0.99,
                 "time_limit_seconds": 172800,
                 "accuracy": 1.0,
-                "enery_units": "millihartree",
+                "energy_units": "millihartree",
                 "energy_target": 0.99
             }
         },
@@ -965,7 +965,7 @@
                 "probability_of_success": 0.99,
                 "time_limit_seconds": 172800,
                 "accuracy": 1.0,
-                "enery_units": "millihartree",
+                "energy_units": "millihartree",
                 "energy_target": 0.99
             }
         },
@@ -1101,7 +1101,7 @@
                 "probability_of_success": 0.99,
                 "time_limit_seconds": 172800,
                 "accuracy": 1.0,
-                "enery_units": "millihartree",
+                "energy_units": "millihartree",
                 "energy_target": 0.99
             }
         },
@@ -1233,7 +1233,7 @@
                 "probability_of_success": 0.99,
                 "time_limit_seconds": 172800,
                 "accuracy": 1.0,
-                "enery_units": "millihartree",
+                "energy_units": "millihartree",
                 "energy_target": 0.99
             }
         },
@@ -1369,7 +1369,7 @@
                 "probability_of_success": 0.99,
                 "time_limit_seconds": 172800,
                 "accuracy": 1.0,
-                "enery_units": "millihartree",
+                "energy_units": "millihartree",
                 "energy_target": 0.99
             }
         },
@@ -1501,7 +1501,7 @@
                 "probability_of_success": 0.99,
                 "time_limit_seconds": 172800,
                 "accuracy": 1.0,
-                "enery_units": "millihartree",
+                "energy_units": "millihartree",
                 "energy_target": 0.99
             }
         },
@@ -1637,7 +1637,7 @@
                 "probability_of_success": 0.99,
                 "time_limit_seconds": 172800,
                 "accuracy": 1.0,
-                "enery_units": "millihartree",
+                "energy_units": "millihartree",
                 "energy_target": 0.99
             }
         },
@@ -1769,7 +1769,7 @@
                 "probability_of_success": 0.99,
                 "time_limit_seconds": 172800,
                 "accuracy": 1.0,
-                "enery_units": "millihartree",
+                "energy_units": "millihartree",
                 "energy_target": 0.99
             }
         },
@@ -1905,7 +1905,7 @@
                 "probability_of_success": 0.99,
                 "time_limit_seconds": 172800,
                 "accuracy": 1.0,
-                "enery_units": "millihartree",
+                "energy_units": "millihartree",
                 "energy_target": 0.99
             }
         },
@@ -2023,7 +2023,7 @@
                 "probability_of_success": 0.99,
                 "time_limit_seconds": 172800,
                 "accuracy": 1.0,
-                "enery_units": "millihartree",
+                "energy_units": "millihartree",
                 "energy_target": 0.99
             }
         },
@@ -2145,7 +2145,7 @@
                 "probability_of_success": 0.99,
                 "time_limit_seconds": 172800,
                 "accuracy": 1.0,
-                "enery_units": "millihartree",
+                "energy_units": "millihartree",
                 "energy_target": 0.99
             }
         }
