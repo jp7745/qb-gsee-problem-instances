@@ -1,5 +1,5 @@
-Mon Sep 23 01:14:44 UTC 2024
-INFO:root:started at: 2024-09-23T01:14:45.111712
+Tue Sep 24 01:15:03 UTC 2024
+INFO:root:started at: 2024-09-24T01:15:03.804243
 INFO:root:input directory: ../problem_instances
 INFO:root:errored_files_directory file: ../problem_instances_WITH_ERRORS
 INFO:root:parsing ../problem_instances/problem_instance.ru_mono.7213642b-5f16-48be-d5e5-2bc42ebb8526.json
