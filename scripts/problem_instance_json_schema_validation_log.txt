@@ -1,11 +1,37 @@
-Tue Oct  8 01:14:48 UTC 2024
-INFO:root:started at: 2024-10-08T01:14:48.711482
+Wed Oct  9 01:14:36 UTC 2024
+INFO:root:started at: 2024-10-09T01:14:37.070858
 INFO:root:input directory: ../problem_instances
 INFO:root:errored_files_directory file: ../problem_instances_WITH_ERRORS
-INFO:root:parsing ../problem_instances/problem_instance.ru_mono.7213642b-5f16-48be-d5e5-2bc42ebb8526.json
-INFO:root:parsing ../problem_instances/problem_instance.blue_dimer.dc8bdc56-5ebd-4996-6b81-81b1a06d8c76.json
 INFO:root:parsing ../problem_instances/problem_instance.mo2_n2.90d4e4fc-1216-4846-b45f-198c0530e29b.json
+INFO:root:parsing ../problem_instances/problem_instance.ru_macho.b78a10f2-ce8a-43c0-69ec-4cf666d8e85c.json
+ERROR:root:Error: Extra data: line 1 column 4 (char 3)
+Traceback (most recent call last):
+  File "/home/runner/work/qb-gsee-problem-instances/qb-gsee-problem-instances/scripts/validate_schema.py", line 89, in main
+    schema = response.json()
+  File "/usr/lib/python3/dist-packages/requests/models.py", line 900, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 1 column 4 (char 3)
+INFO:root:moving file to ../problem_instances_WITH_ERRORS/problem_instance.ru_macho.b78a10f2-ce8a-43c0-69ec-4cf666d8e85c.json.1728436477.5869787.ERROR
 INFO:root:parsing ../problem_instances/problem_instance.mo_n2.664ec8e4-09d5-41cc-6266-ddb26219366f.json
-INFO:root:parsing ../problem_instances/problem_instance.mn_mono.cb40f3f7-ffe8-40e8-4544-f26aad5a8bd8.json
+INFO:root:parsing ../problem_instances/problem_instance.ru_mono.7213642b-5f16-48be-d5e5-2bc42ebb8526.json
 INFO:root:parsing ../problem_instances/problem_instance.mo_n2_pincer.8a3787cc-d3d0-42a8-d9a9-7de2aed45208.json
+INFO:root:parsing ../problem_instances/problem_instance.blue_dimer.dc8bdc56-5ebd-4996-6b81-81b1a06d8c76.json
+INFO:root:parsing ../problem_instances/problem_instance.fe_red.a8895776-3583-4884-fbc7-d6f9df21a7ac.json
+ERROR:root:Error: Extra data: line 1 column 4 (char 3)
+Traceback (most recent call last):
+  File "/home/runner/work/qb-gsee-problem-instances/qb-gsee-problem-instances/scripts/validate_schema.py", line 89, in main
+    schema = response.json()
+  File "/usr/lib/python3/dist-packages/requests/models.py", line 900, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 1 column 4 (char 3)
+INFO:root:moving file to ../problem_instances_WITH_ERRORS/problem_instance.fe_red.a8895776-3583-4884-fbc7-d6f9df21a7ac.json.1728436477.961893.ERROR
+INFO:root:parsing ../problem_instances/problem_instance.mn_mono.cb40f3f7-ffe8-40e8-4544-f26aad5a8bd8.json
 INFO:root:done
