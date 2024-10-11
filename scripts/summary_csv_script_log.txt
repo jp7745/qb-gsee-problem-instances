@@ -1,5 +1,5 @@
-Thu Oct 10 02:10:15 UTC 2024
-started at  2024-10-10T02:10:15.866682
+Fri Oct 11 02:09:39 UTC 2024
+started at  2024-10-11T02:09:39.356837
 input directory:  ../problem_instances
 output file:  ../summary.csv
 parsing ../problem_instances/problem_instance.mo2_n2.90d4e4fc-1216-4846-b45f-198c0530e29b.json
